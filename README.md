@@ -1,4 +1,4 @@
-# Java Calculator CLI Application
+# Java Calculator Application
 
 ## Description
 

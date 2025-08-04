@@ -21,7 +21,7 @@ This is a simple **menu-driven calculator** in Java. It uses user input, loops, 
 - Java 17+  
 - VS Code (Java Extension Pack)
 
-## ▶ How to Run
+##  How to Run
 1. Ensure Java JDK is installed  
 2. Compile the file:  
    ```

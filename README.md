@@ -32,4 +32,4 @@ This is a simple **menu-driven calculator** in Java. It uses user input, loops, 
    java Calculator
    ```
 
-4. ![Alt Text](https://github.com/Arunkumar-Chandru/Task-1-Calculator/blob/ab0dad45db6c32d6aeb1a1f31f91ad9f4c2af10b/Screenshot%20(8).png)
+![Alt Text](https://github.com/Arunkumar-Chandru/Task-1-Calculator/blob/ab0dad45db6c32d6aeb1a1f31f91ad9f4c2af10b/Screenshot%20(8).png)

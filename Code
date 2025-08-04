@@ -32,6 +32,11 @@ public class Calculator {
                 sc.close();
                 break;
             }
+            if(choice<1||choice>4){
+                System.out.println("Invalid choice.");
+                System.out.println();
+                continue;
+            }
             System.out.print("Enter first number:");
             double num1=sc.nextInt();
             System.out.print("Enter second number:");
@@ -47,7 +52,6 @@ public class Calculator {
                         System.out.println("Result:"+divide(num1,num2));
                     }
                 }
-                default -> System.out.println("Invalid choice.");
             }
             System.out.println();
         }
